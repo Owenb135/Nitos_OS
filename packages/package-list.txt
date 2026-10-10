@@ -1,0 +1,38 @@
+# Nitos_OS 0.1.0
+# Base: Ubuntu
+# Architecture: amd64
+
+# Desktop environment
+kde-plasma-desktop
+sddm
+
+# Networking
+network-manager
+network-manager-gnome
+wpasupplicant
+
+# Web browser
+firefox
+
+# Essential utilities
+sudo
+nano
+vim
+curl
+wget
+git
+htop
+unzip
+zip
+
+# Hardware and system support
+linux-image-generic
+linux-firmware
+
+# Audio
+pipewire
+wireplumber
+
+# Fonts and appearance
+fonts-noto
+fonts-noto-color-emoji
