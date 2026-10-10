@@ -1,0 +1,16 @@
+# Generated Cubic build environment
+nitios_os/custom-root/
+nitios_os/custom-disk/
+nitios_os/backup-root/
+
+# Generated disk images
+nitios_os/*.iso
+nitios_os/*.img
+nitios_os/*.md5
+
+# Cubic temporary lock files
+nitios_os/.#*
+
+# Temporary build files
+*.tmp
+*.log
