@@ -1,0 +1,8 @@
+PRETTY_NAME="Nitos OS1.1.0 LTS amd64 (Cubic 2026-10-10 19:19)"
+NAME="Nitos_OS"
+VERSION_ID="0.1.0"
+VERSION="0.1.0"
+VERSION_CODENAME=nitos
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://example.com/nitos-os"

@@ -1,0 +1,25 @@
+---
+componentName: nitos-os
+
+windowExpanding:    fullscreen
+
+strings:
+    productName:         Nitos_OS
+    shortProductName:    Nitos_OS
+    version:             0.1.0
+    shortVersion:        nitos
+    versionedName:       Nitos_OS 0.1.0
+    shortVersionedName:  Nitos_OS
+    bootloaderEntryName: Nitos_OS
+    productUrl:          https://example.com/nitos-os
+    supportUrl:          https://example.com/nitos-os
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "icon.png"
+    productWelcome:      "welcome.png"
+
+style:
+   SidebarBackground:    "#6C7B93"
+   SidebarText:          "#FFFFFF"
+   SidebarTextCurrent:   "#0068C8"

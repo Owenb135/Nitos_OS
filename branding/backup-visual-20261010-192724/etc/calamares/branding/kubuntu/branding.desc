@@ -1,0 +1,29 @@
+---
+componentName: nitos
+
+windowExpanding:    fullscreen
+
+strings:
+    productName:         Nitos OS
+    shortProductName:    Nitos OS
+    version:             1.1.0
+    shortVersion:        questing
+    versionedName:       Nitos OS
+    shortVersionedName:  Nitos 26.04
+    bootloaderEntryName: Nitos
+    productUrl:          https://kubuntu.org/
+    supportUrl:          https://kubuntu.org/contact/
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "icon.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+slideshowAPI:            1
+
+style:
+   SidebarBackground:    "#6C7B93"
+   SidebarText:          "#FFFFFF"
+   SidebarTextCurrent:   "#0068C8"

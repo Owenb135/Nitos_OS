@@ -1,0 +1,15 @@
+[General]
+ColorScheme=Breeze
+Name=Nitos_OS
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+
+[KDE]
+LookAndFeelPackage=org.kde.breeze.desktop
+SingleClick=false
+AutomaticLookAndFeel=false
+DefaultLightLookAndFeel=org.kde.breeze.desktop
+DefaultDarkLookAndFeel=org.kde.breezedark.desktop
+contrast=4
+frameContrast=0.2
